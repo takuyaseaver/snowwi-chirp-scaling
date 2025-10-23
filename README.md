@@ -1,5 +1,5 @@
 # SNOWWI Chirp Scaling Algorithm (CSA)
-An implementation of the chirp scaling algorithm (CSA) for airborne Synthetic Aperture Radar (SAR) processing using SNOWWI datasets.
+An implementation of the chirp scaling algorithm (CSA) for airborne Synthetic Aperture Radar (SAR) processing using Snow Water-equivalent Wide Swath Interferometer and Scatterometer (SNOWWI) datasets.
 
 ## Getting Started: ##
 1. Clone the repository to your local computer.
